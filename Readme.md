@@ -8,4 +8,6 @@ In this repo you will find the solutions to those challenges. My advice is to tr
 You can reach the challenges here: [http://ctf.infosecinstitute.com/](http://ctf.infosecinstitute.com/)
 
 The goal of each challenge is to find the "_flag_"
-* [Challenge 1](http://ctf.infosecinstitute.com/levelone.php]) -> Solution
+* [Challenge 1](http://ctf.infosecinstitute.com/levelone.php) -> [Solution](https://github.com/purefan/bilious-weasel/blob/master/ch01/Readme.md)
+* [Challenge 2](http://ctf.infosecinstitute.com/leveltwo.php) -> [Solution](https://github.com/purefan/bilious-weasel/blob/master/ch02/Readme.md)
+* [Challenge 3](http://ctf.infosecinstitute.com/levelthree.php) -> [Solution]
