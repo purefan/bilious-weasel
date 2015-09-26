@@ -7,4 +7,5 @@ In this repo you will find the solutions to those challenges. My advice is to tr
 
 You can reach the challenges here: [http://ctf.infosecinstitute.com/](http://ctf.infosecinstitute.com/)
 
+The goal of each challenge is to find the "_flag_"
 * [Challenge 1](http://ctf.infosecinstitute.com/levelone.php]) -> Solution
