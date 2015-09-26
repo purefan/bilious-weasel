@@ -3,6 +3,7 @@ Challenge 3
 [ [Link to challenge](http://ctf.infosecinstitute.com/levelthree.php) ]
 
 This challenge just gives us a QR image:
+
 <img alt="Screenshot from the challenge" src="https://raw.githubusercontent.com/purefan/bilious-weasel/master/ch03/static/img/01.png" width="30%">
 
 So my first idea was to decode it with an online tool (Im not going to link to the one I used because there are way too many options and its actually better for you to build your own set of tools)
