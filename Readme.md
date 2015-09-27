@@ -11,3 +11,4 @@ The goal of each challenge is to find the "_flag_"
 * [Challenge 1](http://ctf.infosecinstitute.com/levelone.php) -> [Solution](https://github.com/purefan/bilious-weasel/blob/master/ch01/Readme.md)
 * [Challenge 2](http://ctf.infosecinstitute.com/leveltwo.php) -> [Solution](https://github.com/purefan/bilious-weasel/blob/master/ch02/Readme.md)
 * [Challenge 3](http://ctf.infosecinstitute.com/levelthree.php) -> [Solution](https://github.com/purefan/bilious-weasel/blob/master/ch03/Readme.md)
+* [Challenge 4](http://ctf.infosecinstitute.com/levelfour.php) -> [Solution](https://github.com/purefan/bilious-weasel/blob/master/ch04/Readme.md)
