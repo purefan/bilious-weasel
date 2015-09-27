@@ -1,6 +1,6 @@
 Challenge 4
 -------
-[ [Link to challenge](http://ctf.infosecinstitute.com/levelthree.php) ]
+[ [Link to challenge](http://ctf.infosecinstitute.com/levelfour.php) ]
 
 This is the image of the challenge:
 
